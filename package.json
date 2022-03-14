@@ -1,6 +1,6 @@
 {
   "name": "nikitascript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NikitaScript for Node.js",
   "main": "main.js",
   "scripts": {
