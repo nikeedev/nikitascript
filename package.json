@@ -1,0 +1,26 @@
+{
+  "name": "nikitascript",
+  "version": "0.0.1",
+  "description": "NikitaScript for Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "tsc main.ts && node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "tsc main.ts && git add * && git commit -m \"Daily Updates!!!!!\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikeedev/nikitascript.git"
+  },
+  "keywords": [
+    "cli",
+    "script",
+    "nikitascript"
+  ],
+  "author": "nikeedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikeedev/nikitascript/issues"
+  },
+  "homepage": "https://github.com/nikeedev/nikitascript#readme"
+}
