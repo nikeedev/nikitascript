@@ -1,7 +1,6 @@
 # Nikitascript for Node.js
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/nikeedev/nikitascript?color=Green&label=Current%20P
-package%20version&style=flat-square)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/nikeedev/nikitascript?color=Green&label=Current%20package%20version&style=flat-square)
 
 ### Features
 
