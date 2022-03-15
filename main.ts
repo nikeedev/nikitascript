@@ -1,4 +1,12 @@
-var version : string = "1.1-alpha";
-var build : string = "2022.03-2";
+const version = "0.1.3";
 
-console.log("NikitaScript // v"+version+" - Build "+ build)
+const build = "2022.03-3";
+
+
+function start() {
+    console.log("---------------------------------------------");
+    console.log(" NikitaScript  v"+version+" - Build "+ build);
+    console.log("---------------------------------------------");
+}
+
+start();
