@@ -1,5 +1,5 @@
-var version = "0.1.3";
-var build = "2022.03-3";
+var version = "0.1.4";
+var build = "2022.03-4";
 function start() {
     console.log("---------------------------------------------");
     console.log(" NikitaScript  v" + version + " - Build " + build);
